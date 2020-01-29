@@ -1,2 +1,2 @@
 # vanilla
-Vanilla demos.
+Vanilla 0.6 demos.
